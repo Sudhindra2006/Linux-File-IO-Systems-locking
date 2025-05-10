@@ -93,6 +93,8 @@ return 0;
 
 2.To Write a C program that illustrates files locking
 
+![image](https://github.com/user-attachments/assets/0b0e0c6f-d238-41c1-9dda-09b6cfc649db)
+
 
 
 # RESULT:
